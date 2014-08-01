@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skills>
+    <skill>
+        <title>Выстрел стрелой</title> 
+        <name>arrow</name>     
+        <type>range</type>  
+        <speed>10</speed> 
+        <damage>50</damage> 
+        <effect></effect>
+    </skill>
+</skills>

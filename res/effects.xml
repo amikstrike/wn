@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<effects>
+    <title>Effects xml file</title>
+    <effect>
+        <num>0</num>
+        <name>purifection</name>
+        <damage>15</damage>
+        <frames>10</frames>
+        <cover>true</cover>
+        <action_speed>50</action_speed>
+        <speed>10</speed>
+        <img>effect1</img>
+        <height>60</height>
+        <width>60</width>
+    </effect>
+    <effect>
+        <num>1</num>
+        <name>hit_effect</name>
+        <damage>15</damage>
+        <frames>10</frames>
+        <cover>false</cover>
+        <action_speed>50</action_speed>
+        <speed>10</speed>
+        <img>effect_hit</img>
+        <height>60</height>
+        <width>60</width>
+    </effect>
+</effects>

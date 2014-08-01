@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<units>
+    <title>Units xml file</title>
+    <unit>
+        <num>0</num>
+        <name>axeman</name>
+        <type>melee</type>
+        <damage>15</damage>
+        <hp>100</hp>
+        <tired>300</tired>
+        <action_speed>50</action_speed>
+        <speed>12</speed>
+        <hit_length>25</hit_length>
+        <img>axeman</img>
+        <height>80</height>
+        <width>80</width>        
+        <toll_x>20</toll_x>
+        <toll_y>20</toll_y>
+    </unit>
+
+    <unit>
+        <num>1</num>
+        <name>medium_blue</name>
+        <type>melee</type>
+        <damage>20</damage>
+        <hp>100</hp>
+        <tired>250</tired>
+        <action_speed>50</action_speed>
+        <speed>12</speed>
+        <hit_length>25</hit_length>
+        <img>woody_purple</img>
+        <height>80</height>
+        <width>80</width>
+        <toll_x>20</toll_x>
+        <toll_y>20</toll_y>
+    </unit>
+
+    <unit>
+        <num>2</num>
+        <name>medium_red</name>
+        <type>melee</type>
+        <damage>21</damage>
+        <hp>110</hp>
+        <tired>280</tired>
+        <action_speed>50</action_speed>
+        <speed>12</speed>
+        <hit_length>25</hit_length>
+        <img>woody_red</img>
+        <height>80</height>
+        <width>80</width>
+        <toll_x>20</toll_x>
+        <toll_y>20</toll_y>
+    </unit>
+
+    <unit>
+        <num>3</num>
+        <name>swordsman</name>
+        <type>melee</type>
+        <damage>25</damage>
+        <hp>130</hp>
+        <tired>300</tired>
+        <action_speed>50</action_speed>
+        <speed>12</speed>
+        <hit_length>25</hit_length>
+        <img>swordsman</img>
+        <height>80</height>
+        <width>80</width>
+        <toll_x>20</toll_x>
+        <toll_y>20</toll_y>
+    </unit>
+
+
+
+</units>

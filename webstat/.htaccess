@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/wn/webstat"
+AuthUserFile /var/www/controller/data/etc/395345946.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
