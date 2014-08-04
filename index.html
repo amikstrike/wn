@@ -6,7 +6,7 @@
         <title></title>
         <link href="css/style.css" rel="stylesheet">
         <script src="library/jquery.js"></script>
-        <script src="http://91.223.180.59:8080/socket.io/socket.io.js"></script>
+        <script src="http://localhost:8080/socket.io/socket.io.js"></script>
     </head>
     <body onmousemove="set_direction()"> 
         <div class="preloader" style="display:none;">
@@ -263,7 +263,7 @@ left: 60px;">
         bg_canvas.height = windowHeight();
         //$('#log').css('width', windowWidth());
         //$('#input').css('width', windowWidth() - send_button_width);
-        socket = io.connect('http://91.223.180.59:8080');
+        socket = io.connect('http://localhost:8080');
         socket.on('connect', function() {
 
             $('.select_unit').click(function() {
