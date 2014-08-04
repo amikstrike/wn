@@ -6,7 +6,7 @@
 <spawn>
 <blue_spawn_x>1000</blue_spawn_x>
 <blue_spawn_y>200</blue_spawn_y>
-<red_spawn_x>1100</red_spawn_x>
+<red_spawn_x>1600</red_spawn_x>
 <red_spawn_y>200</red_spawn_y>
 </spawn>
 <tile>tiles/bg2.png</tile>
