@@ -17,7 +17,7 @@ var effect;
 var effect_code = 0;
 var skill_code = 0;
 var score = {'blue': 0, 'red': 0};//счет
-var win_score = 2;//макс колво убийтв для победы
+var win_score = 20;//макс колво убийтв для победы
 var map_width;
 var map_height;
 var map_arr = [];//массив карты
